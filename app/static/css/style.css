@@ -1,0 +1,107 @@
+/* Je regroupe ici tout mon CSS */
+
+/* Je le range par ordre alphabétique et par vues et j'essaie de respecter au maximum la convention de nommage des classes BEM */
+
+/* CCS Général */
+
+body {
+
+    background-color: #f4eadd; /* Je part sur une colorimétrie des pizzérias disponibles sur Aix-En-Provence */
+    font-family: "Lato", sans-serif;
+
+}
+
+/* CSS de l'header factorisé sur l'ensemble des pages du projet */
+
+.header__title {
+    font-size: 51px;
+    height: 220px;
+    text-align: center;
+    background-image: url(https://www.pizza-company-fourmies.fr/assets/img/slider/pizzeria-fourmies-hirson-anor.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight: bold;
+    text-shadow: 1px 3px 2px black;
+    color: white;
+    line-height: 1.2em;
+    padding-top: 30px;
+}
+
+.header__nav__ul {
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    background-color: rgb(58, 37, 37);
+    padding: 10px;
+    border: 2px solid black;
+    color: white;
+}
+
+.header__nav__ul--first:hover, .header__nav__ul--second:hover, .header__nav__ul--third:hover {
+    color: lightsalmon;
+}
+
+/* CSS du footer factorisé sur l'ensemble des pages du projet */
+
+.footer__author {
+    background-color: rgb(58, 37, 37);
+    color: white;
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+    line-height: 1.5em;
+}
+
+
+/* CSS de la vue home */
+
+.main__description {
+    padding: 10px;
+    text-align: center;
+    line-height: 1.5em;
+    font-size: 20px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.main__ul {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 30px;
+}
+
+.main__ul--first, .main__ul--second, .main__ul--third, .main__ul--fourth {
+    margin: 20px;
+    padding: 20px;
+    font-size: 40px;
+    border: 2px solid black;
+    font-weight: bold;
+    text-shadow: 1px 3px 2px black;
+    color: white;
+    width: 240px;
+    height: 240px;
+}
+
+.main__ul--first {
+   background-image: url("https://res.cloudinary.com/hv9ssmzrz/image/fetch/c_fill,f_auto,h_387,q_auto,w_650/https://s3-eu-west-1.amazonaws.com/images-ca-1-0-1-eu/tag_photos/original/1908/tapas-tag-AdobeStock_159627449.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.main__ul--second {
+    background-image: url("https://www.atelierdeschefs.com/media/recette-e30299-pizza-pepperoni-tomate-mozza.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main__ul--third {
+    background-image: url("https://www.academiedugout.fr/images/41813/1200-auto/8101-mousse-au-chocolat-au-gingembre.jpg?poix=50&poiy=50");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main__ul--fourth {
+    background-image: url("https://www.cocktail.fr/wp-content/uploads/elementor/thumbs/Les-boissons-les-plus-consomme%CC%81es-en-France-pgqhpiygwijl9lvamiahd8e4jjoczj3ybyqnaj0tf4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

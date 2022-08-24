@@ -1,0 +1,61 @@
+<!-- Je vais factoriser le header de mes pages car il se répète sur quasiment toutes les pages, on rend la maintenance plus facile à faire ! -->
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Je veux une police google particulière, je part la chercher ! -->
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+
+    <!-- Je place ici mon CSS, d'abord en indiquant le CSS remis à zéro et puis le nouveau CSS -->
+
+    <link rel="stylesheet" href="/css/reset.css" />
+
+    <link rel="stylesheet" href="/css/style.css" />
+
+    <title>DailyPizz</title>
+
+</head>
+
+<body>
+
+    <!-- On va tenter quelque chose, mettre en position fixed tout le header, on barricade tout dans une div -->
+
+    <div class="header__div">
+        
+        <header class="header">
+
+            <h1 class="header__title">Bienvenue à la DailyPizz !</h1>
+
+        <!-- Je m'occupe du header et de sa barre de navigation en quelque sorte -->
+
+            <nav class="header__nav">
+
+                <ul class="header__nav__ul">
+    
+                    <li class="header__nav__ul--first"> Accueil </li>
+    
+                    <li class="header__nav__ul--second"> Réseaux </li>
+    
+                    <li class="header__nav__ul--third"> Coordonnées </li>
+    
+                </ul>
+    
+            </nav>
+
+    </header>
+
+    </div>
