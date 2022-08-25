@@ -27,6 +27,11 @@ body {
     padding-top: 30px;
 }
 
+.header__nav__home {
+    text-decoration: none;
+    color: white;
+}
+
 .header__nav__ul {
     display: flex;
     justify-content: space-around;
@@ -68,6 +73,12 @@ body {
     display: flex;
     flex-wrap: wrap;
     font-size: 30px;
+    justify-content: center;
+}
+
+.main__ul__ahref {
+    text-decoration: none;
+    color: white;
 }
 
 .main__ul--first, .main__ul--second, .main__ul--third, .main__ul--fourth {
@@ -104,4 +115,121 @@ body {
     background-image: url("https://www.cocktail.fr/wp-content/uploads/elementor/thumbs/Les-boissons-les-plus-consomme%CC%81es-en-France-pgqhpiygwijl9lvamiahd8e4jjoczj3ybyqnaj0tf4.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+/* CSS pour la vue pizzas */
+
+.main__pizza {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.main__pizza__name {
+    margin: 20px;
+    padding: 20px;
+    font-size: 40px;
+    border: 2px solid black;
+    font-weight: bold;
+    text-shadow: 1px 3px 2px black;
+    color: white;
+    width: 240px;
+    height: 240px;
+}
+
+/* CSS pour la vue network */
+
+.main__network--first, .main__network--second, .main__network--third, .main__network--fourth, .main__network--fifth, .main__network--sixth {
+    margin: 20px;
+    padding: 20px;
+    font-size: 40px;
+    border: 2px solid black;
+    font-weight: bold;
+    text-shadow: 1px 3px 2px black;
+    color: white;
+    width: 240px;
+    height: 240px;
+}
+
+.main__network--first {
+    background-image: url("https://pricemoov.ghost.io/content/images/2020/06/photo-de-couv-fb-marketplace-v2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main__network--second {
+    background-image: url("https://www.unapei-idf.org/wp-content/uploads/2018/03/twitter_unapei-idf.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main__network--third {
+    background-image: url("https://www.journaldugeek.com/content/uploads/2020/07/tiktokl.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main__network--fourth {
+    background-image: url("http://www.resonancecommunication.com/wp-content/uploads/2017/08/Pourquoi-utiliser-Instagram.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main__network--fifth {
+    background-image: url("https://www.travailler-en-suisse.ch/wp-content/uploads/remplir-profil-linkedin-emploi-suisse.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main__network--sixth {
+    background-image: url("https://idees-france.com/wp-content/uploads/2022/04/GitHub-suspend-les-comptes-de-developpeurs-russes-dans-des-entreprises.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* CSS pour la vue contact */
+
+.main__contact--first, .main__contact--second, .main__contact--third, .main__contact--fourth {
+    margin: 20px;
+    padding: 20px;
+    font-size: 40px;
+    border: 2px solid black;
+    font-weight: bold;
+    text-shadow: 1px 3px 2px black;
+    color: white;
+    width: 240px;
+    height: 240px;
+}
+
+.main__contact--first {
+    background-image: url("https://www.casa-pizza.com/images/photoarticles/pizzerias-visibles-istock.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main__contact--second {
+    background-image: url("https://i-sam.unimedias.fr/2016/06/27/istock_81476507_medium.jpg?auto=format%2Ccompress&crop=faces&cs=tinysrgb&fit=crop&h=675&w=1200");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main__contact--third {
+    background-image: url("https://img-0.journaldunet.com/LdKTfkFeppYSmL24oUA1qcUhrbY=/1500x/smart/8690a467acaf4cd4b74fcbc6d27dfdab/ccmcms-jdn/15976496.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main__contact--fourth {
+    background-image: url("https://lepetitjournal.com/sites/default/files/styles/main_article/public/2019-05/Hours-Clock-702x335.jpg?itok=mQMESr6Y");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* CSS pour la vue des tapas */
+
+.main__products__img {
+    width: 284px;
+    height: 284px;
+    margin : 20px;
+    border: 2px solid black;
 }

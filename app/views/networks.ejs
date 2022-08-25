@@ -1,0 +1,31 @@
+<!-- Je part chercher le code factorisé pour le header dans la mesure où il sera le même pour toutes les pages du site -->
+
+<%- include ("partials/header") %>
+
+<main class="main__pizza">
+
+    <p class="main__description"> Venez nous suivre sur nos réseaux sociaux !</p>
+
+    <ul class="main__ul">
+
+        <li class="main__network--first"><a href="#" class="main__ul__ahref"> Facebook </a></li>
+
+        <li class="main__network--second"><a href="#" class="main__ul__ahref"> Twitter </a></li>
+
+        <li class="main__network--third"><a href="#" class="main__ul__ahref"> TikTok </a></li>
+
+        <li class="main__network--fourth"><a href="#" class="main__ul__ahref"> Instagram </a></li>
+
+        <li class="main__network--fifth"><a href="#"  class="main__ul__ahref" target="_blank"> Linkedin </a></li>
+
+        <li class="main__network--sixth"><a href="#" class="main__ul__ahref"> Github </a></li>
+
+    </ul>
+
+</main>
+
+<!-- Le footer risque lui aussi de beaucoup se répéter, du coup on le factorise et on le déplace dans un partial -->
+
+<!-- Bien évidemment, il faut quand même le mentionner ici, je le fais -->
+
+<%- include ("partials/footer") %>

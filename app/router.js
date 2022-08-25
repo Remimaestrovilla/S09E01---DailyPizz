@@ -2,6 +2,12 @@
 
 const express = require ('express');
 
+const beveragesController = require('./controllers/beveragesController');
+
+const contactController = require('./controllers/contactsControllers');
+
+const dessertsController = require('./controllers/dessertsController');
+
 // Je dis à mon code que je veux que Express passe sur le routeur de mon serveur
 
 const router = express.Router();
@@ -10,9 +16,43 @@ const router = express.Router();
 
 const homeController = require ('./controllers/homeController');
 
+const networkController = require('./controllers/networksController');
+
+const pizzasController = require('./controllers/pizzasController');
+
+const tapasController = require ('./controllers/tapasController');
+
+const contactsController = require ('./controllers/contactsControllers');
+
 // Je décide que mon controller de la page d'accueil arrivera sur la page d'entrée de mon site. Je précise le controlleur et la méthode ! 
 
 router.get('/', homeController.home);
+
+// Je dresse le chemin d'accès pour les liens dans le header, cela facilite grandement la navigation
+
+router.get('/networks', networkController.socialNetworks);
+
+router.get('/contacts', contactsController.contacts);
+
+// Je dresse le chemin d'accès pour toutes les autres pages du site
+
+router.get('/pizzas', pizzasController.showPizzas);
+
+router.get('/tapas', tapasController.showTapas);
+
+router.get('/desserts', dessertsController.showDesserts);
+
+router.get('/beverages', beveragesController.showBeverages);
+
+// Je dresse enfin le chemin d'accès de toutes les routes paramétrées de mon site
+
+router.get('/tapas/:id', tapasController.tapasDetail);
+
+router.get('/pizzas/:id', pizzasController.pizzasDetail);
+
+router.get('/desserts/:id', dessertsController.dessertsDetail);
+
+router.get('/beverages/:id', beveragesController.beveragesDetail);
 
 // Je dois exporter le routeur pour lier les concepts entre eux ! 
 
