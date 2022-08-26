@@ -2,11 +2,31 @@
 
 <%- include ("partials/header") %>
 
+<p class="main__description"> Vous êtes intéressé par <%= tapas.name %> ? La DailyPizz va tout vous dire !</p>
+
 <main class="main__pizza">
 
-        <p class="main__description"> Vous êtes intéressé par <%= tapas.name %> ? La DailyPizz va tout vous dire !</p>
+        <img src="<%= tapas.img %>" class="main__products__img">
 
 </main>
+
+<section class="product__informations">
+
+        <p class="product__price"><%= tapas.price %> euros </p>
+
+</section>
+
+<section class="product__informations__two">
+
+        <p class="product__topping"><%= tapas.topping %></p>
+
+</section>
+
+<section class="product_informations_three">
+
+        <p class="product__description"><%= tapas.description %></p>
+
+</section>
 
 <!-- Le footer risque lui aussi de beaucoup se répéter, du coup on le factorise et on le déplace dans un partial -->
 

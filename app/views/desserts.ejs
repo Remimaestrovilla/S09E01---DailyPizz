@@ -2,20 +2,17 @@
 
 <%- include ("partials/header") %>
 
-<p class="main__description">Envie de bien terminer le repas ? Cliquez sur une vignette pour obtenir toutes les
+<p class="main__description"> Une petite faim ? Cliquez sur une vignette pour obtenir toutes les
     informations !</p>
 
 <main class="main__pizza">
 
-    <!-- Je vais boucler sur toutes les desserts, je réalise donc une boucle en utilisant la syntaxe EJS -->
+    <!-- Je vais boucler sur tous les desserts, je réalise donc une boucle en utilisant la syntaxe EJS -->
 
     <% for (const dessert of desserts) { %>
 
-
-        <!-- Je ne veux que les images et les noms de desserts -->
-
         <a href="/desserts/<%= dessert.id %>"><img src="<%= dessert.img %>" class="main__products__img"></a>
-
+        
     <% } %>
 
 </main>

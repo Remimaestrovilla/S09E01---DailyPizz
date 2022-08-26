@@ -20,7 +20,7 @@ const dessertsController = {
 
         // Je récupère l'ID demandé, comme il s'agit d'un nombre il faut transformer le string en nombre
 
-        const ID = Number(request.params.ID);
+        const id = Number(request.params.id);
 
         // Je fais maintenant en sorte de récupérer la bonne valeur en paramètre
 
@@ -28,7 +28,7 @@ const dessertsController = {
 
             // Si l'ID du produit est celui qui est cherché, alors find le retournera et on le mémorisera dans la constante appropriée. Sinon, on passe !
 
-            return testedDesserts.ID === ID
+            return testedDesserts.id === id;
 
         });
 

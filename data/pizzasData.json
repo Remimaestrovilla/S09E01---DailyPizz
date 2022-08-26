@@ -5,7 +5,7 @@
     "img": "https://assets.afcdn.com/recipe/20181212/84802_w1024h576c1cx2736cy1824.jpg",
     "img_alt": "Une photo de la pizza Marguarita que nous servons à La Villa Aubert",
     "price": 7.50,
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem saepe ad minima exercitationem, perferendis atque dolorum reiciendis maiores impedit quae cupiditate quidem dignissimos officia esse. Repellendus quas voluptatibus quae soluta laboriosam? Officiis eos molestias eveniet id enim animi expedita sapiente harum obcaecati quia fuga odio possimus, ut odit sunt. Magni illum nihil id reiciendis assumenda velit non nesciunt hic temporibus, exercitationem molestiae suscipit omnis error soluta delectus a aliquam eveniet necessitatibus eligendi vero modi, rem itaque sunt? Id nulla tenetur, neque voluptatibus doloribus, vel, labore possimus saepe iusto ea reprehenderit fuga. Adipisci dolorem aut ducimus nulla odit, voluptas iure."
+    "description": "La base des pizzas, celle qui a mis les italiens tout le monde d'accord. La DailyPizz vous propose une version toute simple à base de purée de tomates et de fromage italien pour combler vos papilles."
   },
   {
     "id": 2,
@@ -14,7 +14,7 @@
     "img": "https://img.cuisineaz.com/610x610/2015/05/05/i20282-pizza.jpg",
     "img_alt": "Une photo de la pizza Jambon que nous servons à La Villa Aubert",
     "price": 8.00,
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem saepe ad minima exercitationem, perferendis atque dolorum reiciendis maiores impedit quae cupiditate quidem dignissimos officia esse. Repellendus quas voluptatibus quae soluta laboriosam? Officiis eos molestias eveniet id enim animi expedita sapiente harum obcaecati quia fuga odio possimus, ut odit sunt. Magni illum nihil id reiciendis assumenda velit non nesciunt hic temporibus, exercitationem molestiae suscipit omnis error soluta delectus a aliquam eveniet necessitatibus eligendi vero modi, rem itaque sunt? Id nulla tenetur, neque voluptatibus doloribus, vel, labore possimus saepe iusto ea reprehenderit fuga. Adipisci dolorem aut ducimus nulla odit, voluptas iure."
+    "description": "Vous voyez la pizza Marguarita ? Bah c'est pareil sauf qu'on rajoute du jambon, beaucoup de jambon. Par soucis de neutralité, La DailyPizz vous précise que le jambon est du jambon de porc."
   },
   {
     "id": 3,
@@ -23,7 +23,7 @@
     "img": "https://recette.supertoinette.com/151459/b/pizza-reine.jpg",
     "img_alt": "Une photo de la pizza Reine que nous servons à La Villa Aubert",
     "price": 8.50,
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem saepe ad minima exercitationem, perferendis atque dolorum reiciendis maiores impedit quae cupiditate quidem dignissimos officia esse. Repellendus quas voluptatibus quae soluta laboriosam? Officiis eos molestias eveniet id enim animi expedita sapiente harum obcaecati quia fuga odio possimus, ut odit sunt. Magni illum nihil id reiciendis assumenda velit non nesciunt hic temporibus, exercitationem molestiae suscipit omnis error soluta delectus a aliquam eveniet necessitatibus eligendi vero modi, rem itaque sunt? Id nulla tenetur, neque voluptatibus doloribus, vel, labore possimus saepe iusto ea reprehenderit fuga. Adipisci dolorem aut ducimus nulla odit, voluptas iure."
+    "description": "La Reine, c'est une Jambon mais avec des champignons. A La DailyPizz, on est pas trop fans des champignons car on trouve ca visqueux, pourquoi c'est pas aussi délicieux que quand on joue à Super Mario Bros ?"
   },
   {
     "id": 4,
@@ -32,7 +32,7 @@
     "img": "https://www.enviedebienmanger.fr/sites/default/files/compresed_images/pizza-jambon-oeuf.jpg",
     "img_alt": "Une photo de la pizza Royale que nous servons à La Villa Aubert",
     "price": 9.00,
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem saepe ad minima exercitationem, perferendis atque dolorum reiciendis maiores impedit quae cupiditate quidem dignissimos officia esse. Repellendus quas voluptatibus quae soluta laboriosam? Officiis eos molestias eveniet id enim animi expedita sapiente harum obcaecati quia fuga odio possimus, ut odit sunt. Magni illum nihil id reiciendis assumenda velit non nesciunt hic temporibus, exercitationem molestiae suscipit omnis error soluta delectus a aliquam eveniet necessitatibus eligendi vero modi, rem itaque sunt? Id nulla tenetur, neque voluptatibus doloribus, vel, labore possimus saepe iusto ea reprehenderit fuga. Adipisci dolorem aut ducimus nulla odit, voluptas iure."
+    "description": "Qui met des oeufs dans une pizza ? Eh bien les adorateurs de la pizza Royale. Nous on est clairement pas fans et tout laisse à croire que les cuisiniers de La DailyPizz posent les oeufs sur la pizza en se bouchant le nez."
   },
   {
     "id": 5,
@@ -41,16 +41,16 @@
     "img": "https://img-3.journaldesfemmes.fr/dwDwwwmCUa1z-qdqdEhlPQiiBr8=/750x500/smart/d469d02fd2f144a9b9f2d590a5df5aa2/recipe-jdf/326375.jpg",
     "img_alt": "Une photo de la pizza Napolitaine que nous servons à La Villa Aubert",
     "price": 8.50,
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem saepe ad minima exercitationem, perferendis atque dolorum reiciendis maiores impedit quae cupiditate quidem dignissimos officia esse. Repellendus quas voluptatibus quae soluta laboriosam? Officiis eos molestias eveniet id enim animi expedita sapiente harum obcaecati quia fuga odio possimus, ut odit sunt. Magni illum nihil id reiciendis assumenda velit non nesciunt hic temporibus, exercitationem molestiae suscipit omnis error soluta delectus a aliquam eveniet necessitatibus eligendi vero modi, rem itaque sunt? Id nulla tenetur, neque voluptatibus doloribus, vel, labore possimus saepe iusto ea reprehenderit fuga. Adipisci dolorem aut ducimus nulla odit, voluptas iure."
+    "description": "On était choqué d'apprendre que certains mettaient de l'ananas sur leurs pizzas, dites vous que certains mettent carrément de la poiscaille dessus ? Mais qui sont ces gens ? La DailyPizz s'interroge."
   },
   {
     "id": 6,
     "name": "Végétarienne",
     "topping": "Tomate, Mozzarella, Poivrons, Champignons, Oignons, Olives",
-    "img": "https://api.pizzahut.io/v1/content/fr-fr/fr-1/images/pizza/vegetar.c80707922e21153554f7e54e607bee50.1.jpg",
+    "img": "https://assets.afcdn.com/recipe/20170427/39421_w1024h1024c1cx831cy571.jpg",
     "img_alt": "Une photo de la pizza Végétarienne que nous servons à La Villa Aubert",
     "price": 10.00,
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem saepe ad minima exercitationem, perferendis atque dolorum reiciendis maiores impedit quae cupiditate quidem dignissimos officia esse. Repellendus quas voluptatibus quae soluta laboriosam? Officiis eos molestias eveniet id enim animi expedita sapiente harum obcaecati quia fuga odio possimus, ut odit sunt. Magni illum nihil id reiciendis assumenda velit non nesciunt hic temporibus, exercitationem molestiae suscipit omnis error soluta delectus a aliquam eveniet necessitatibus eligendi vero modi, rem itaque sunt? Id nulla tenetur, neque voluptatibus doloribus, vel, labore possimus saepe iusto ea reprehenderit fuga. Adipisci dolorem aut ducimus nulla odit, voluptas iure."
+    "description": "Tu es végétarien mais tu viens dans une pizza ? Non mais allo quoi ! La DailyPizz s'insurge. Tu aimes les legumes, tu manges des légumes, tu aimes la pizza, tu manges du fromage. Plein de fromages. Et de viande !"
   },
   {
     "id": 7,
@@ -59,7 +59,7 @@
     "img": "https://www.santapizza.fr/public/img/medium/espagnoljpg_59e71f7216943.jpg",
     "img_alt": "Une photo de la pizza Espagnole que nous servons à La Villa Aubert",
     "price": 11.00,
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem saepe ad minima exercitationem, perferendis atque dolorum reiciendis maiores impedit quae cupiditate quidem dignissimos officia esse. Repellendus quas voluptatibus quae soluta laboriosam? Officiis eos molestias eveniet id enim animi expedita sapiente harum obcaecati quia fuga odio possimus, ut odit sunt. Magni illum nihil id reiciendis assumenda velit non nesciunt hic temporibus, exercitationem molestiae suscipit omnis error soluta delectus a aliquam eveniet necessitatibus eligendi vero modi, rem itaque sunt? Id nulla tenetur, neque voluptatibus doloribus, vel, labore possimus saepe iusto ea reprehenderit fuga. Adipisci dolorem aut ducimus nulla odit, voluptas iure."
+    "description": "La pizza de tout ceux qui ont le sang chaud. La DailyPizz vous prévient: sur les chorizos, on a pas la main légère. Préparer vous à dire adieu à vos papilles gustatives après avoir posé votre langue dessus."
   },
   {
     "id": 8,
@@ -68,7 +68,7 @@
     "img": "https://img.cuisineaz.com/660x660/2016/06/30/i95078-pizza-4-fromages.jpg",
     "img_alt": "Une photo de la pizza 4 Fromages que nous servons à La Villa Aubert",
     "price": 10.00,
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem saepe ad minima exercitationem, perferendis atque dolorum reiciendis maiores impedit quae cupiditate quidem dignissimos officia esse. Repellendus quas voluptatibus quae soluta laboriosam? Officiis eos molestias eveniet id enim animi expedita sapiente harum obcaecati quia fuga odio possimus, ut odit sunt. Magni illum nihil id reiciendis assumenda velit non nesciunt hic temporibus, exercitationem molestiae suscipit omnis error soluta delectus a aliquam eveniet necessitatibus eligendi vero modi, rem itaque sunt? Id nulla tenetur, neque voluptatibus doloribus, vel, labore possimus saepe iusto ea reprehenderit fuga. Adipisci dolorem aut ducimus nulla odit, voluptas iure."
+    "description": "Si vous aimez les fromages, alors on va faire de vous des heureux. La DailyPizz se propose de vider des camions de fromage sur votre pizza pour vous faire plaisir. Est-ce que vous méritez notre gentillesse ?"
   },
   {
     "id": 9,
@@ -77,7 +77,7 @@
     "img": "https://bbcholet.roomserveat.com/wp-content/uploads/2021/02/buffalo-e1613510244140.jpg",
     "img_alt": "Une photo de la pizza Buffalo que nous servons à La Villa Aubert",
     "price": 11.00,
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem saepe ad minima exercitationem, perferendis atque dolorum reiciendis maiores impedit quae cupiditate quidem dignissimos officia esse. Repellendus quas voluptatibus quae soluta laboriosam? Officiis eos molestias eveniet id enim animi expedita sapiente harum obcaecati quia fuga odio possimus, ut odit sunt. Magni illum nihil id reiciendis assumenda velit non nesciunt hic temporibus, exercitationem molestiae suscipit omnis error soluta delectus a aliquam eveniet necessitatibus eligendi vero modi, rem itaque sunt? Id nulla tenetur, neque voluptatibus doloribus, vel, labore possimus saepe iusto ea reprehenderit fuga. Adipisci dolorem aut ducimus nulla odit, voluptas iure."
+    "description": "La DailyPizz joue la carte de l'honneteté: cette pizza, on a pris les restes du frigo, on a prié fort, et cela donnait un goût plutot sympa alors on s'est dit pourquoi pas ? Et c'est ainsi que la pizza Buffalo est né."
   },
   {
     "id": 10,
@@ -86,7 +86,7 @@
     "img": "https://img.cuisineaz.com/1280x720/2021/06/24/i179313-4-pizza-burger.webp",
     "img_alt": "Une photo de la pizza Burger que nous servons à La Villa Aubert",
     "price": 10.00,
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem saepe ad minima exercitationem, perferendis atque dolorum reiciendis maiores impedit quae cupiditate quidem dignissimos officia esse. Repellendus quas voluptatibus quae soluta laboriosam? Officiis eos molestias eveniet id enim animi expedita sapiente harum obcaecati quia fuga odio possimus, ut odit sunt. Magni illum nihil id reiciendis assumenda velit non nesciunt hic temporibus, exercitationem molestiae suscipit omnis error soluta delectus a aliquam eveniet necessitatibus eligendi vero modi, rem itaque sunt? Id nulla tenetur, neque voluptatibus doloribus, vel, labore possimus saepe iusto ea reprehenderit fuga. Adipisci dolorem aut ducimus nulla odit, voluptas iure."
+    "description": "Vous adorez les burgers ? Mais vous voulez aussi manger une pizza ? Ne cherchez plus, La DailyPizz a pensé à tout avec cette pizza qui risquerait de mettre Greta Thumberg en sueur..."
   },
   {
     "id": 11,
@@ -95,7 +95,7 @@
     "img": "https://www.pizza-mario-narbonne.fr/images_pmn/carte/pizza-narbonne-carnivore-41.jpg",
     "img_alt": "Une photo de la pizza Carnivore que nous servons à La Villa Aubert",
     "price": 12.00,
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem saepe ad minima exercitationem, perferendis atque dolorum reiciendis maiores impedit quae cupiditate quidem dignissimos officia esse. Repellendus quas voluptatibus quae soluta laboriosam? Officiis eos molestias eveniet id enim animi expedita sapiente harum obcaecati quia fuga odio possimus, ut odit sunt. Magni illum nihil id reiciendis assumenda velit non nesciunt hic temporibus, exercitationem molestiae suscipit omnis error soluta delectus a aliquam eveniet necessitatibus eligendi vero modi, rem itaque sunt? Id nulla tenetur, neque voluptatibus doloribus, vel, labore possimus saepe iusto ea reprehenderit fuga. Adipisci dolorem aut ducimus nulla odit, voluptas iure."
+    "description": "La pizza des vrais hommes ! De la protéine, de la protéine et encore de la protéine. Des bruits de couloirs circulent comme quoi cette pizza est la préférée de Tibo Inshape quand il va à La DailyPizz"
   },
   {
     "id": 12,
@@ -104,7 +104,7 @@
     "img": "https://assets.afcdn.com/recipe/20200206/107152_w1024h576c1cx176cy267.webp",
     "img_alt": "Une photo de la pizza Italienne que nous servons à La Villa Aubert",
     "price": 11.50,
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem saepe ad minima exercitationem, perferendis atque dolorum reiciendis maiores impedit quae cupiditate quidem dignissimos officia esse. Repellendus quas voluptatibus quae soluta laboriosam? Officiis eos molestias eveniet id enim animi expedita sapiente harum obcaecati quia fuga odio possimus, ut odit sunt. Magni illum nihil id reiciendis assumenda velit non nesciunt hic temporibus, exercitationem molestiae suscipit omnis error soluta delectus a aliquam eveniet necessitatibus eligendi vero modi, rem itaque sunt? Id nulla tenetur, neque voluptatibus doloribus, vel, labore possimus saepe iusto ea reprehenderit fuga. Adipisci dolorem aut ducimus nulla odit, voluptas iure."
+    "description": "Une pizza qui sent bon la dolce vita dans une petite ville portuaire au sud de l'italie. Commandez cette pizza à La DailyPizz et vos papilles vont arriver illico en Sicile, on vous le garanti !"
   },
   {
     "id": 13,
@@ -113,7 +113,7 @@
     "img": "https://cac.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fcac.2F2018.2F09.2F25.2Fbd9e8869-31d9-4113-87cf-65a062c9d785.2Ejpeg/750x562/quality/80/crop-from/center/cr/wqkgIC8gQ3Vpc2luZSBBY3R1ZWxsZQ%3D%3D/pizza-aux-magrets-de-canard-fume-crottin-de-chevre-et-oignon-rouge.jpeg",
     "img_alt": "Une photo de la pizza Magret que nous servons à La Villa Aubert",
     "price": 12.00,
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem saepe ad minima exercitationem, perferendis atque dolorum reiciendis maiores impedit quae cupiditate quidem dignissimos officia esse. Repellendus quas voluptatibus quae soluta laboriosam? Officiis eos molestias eveniet id enim animi expedita sapiente harum obcaecati quia fuga odio possimus, ut odit sunt. Magni illum nihil id reiciendis assumenda velit non nesciunt hic temporibus, exercitationem molestiae suscipit omnis error soluta delectus a aliquam eveniet necessitatibus eligendi vero modi, rem itaque sunt? Id nulla tenetur, neque voluptatibus doloribus, vel, labore possimus saepe iusto ea reprehenderit fuga. Adipisci dolorem aut ducimus nulla odit, voluptas iure."
+    "description": "On dit souvent que le magret de canard est un produit de luxe, pour 12 euros seulement, La DailyPizz vous propose de vous détruire le ventre avec une pizza blindé de ce produit de luxe. Vous êtes partants ?"
   },
   {
     "id": 14,
@@ -122,7 +122,7 @@
     "img": "https://www.atelierdeschefs.com/media/recette-e22965-pizza-carbonara.jpg",
     "img_alt": "Une photo de la pizza Carbonara que nous servons à La Villa Aubert",
     "price": 10.00,
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem saepe ad minima exercitationem, perferendis atque dolorum reiciendis maiores impedit quae cupiditate quidem dignissimos officia esse. Repellendus quas voluptatibus quae soluta laboriosam? Officiis eos molestias eveniet id enim animi expedita sapiente harum obcaecati quia fuga odio possimus, ut odit sunt. Magni illum nihil id reiciendis assumenda velit non nesciunt hic temporibus, exercitationem molestiae suscipit omnis error soluta delectus a aliquam eveniet necessitatibus eligendi vero modi, rem itaque sunt? Id nulla tenetur, neque voluptatibus doloribus, vel, labore possimus saepe iusto ea reprehenderit fuga. Adipisci dolorem aut ducimus nulla odit, voluptas iure."
+    "description": "On aurait pu réaliser la pizza parfaite mais non, il fallait qu'on rajoute un oeuf. Chez La DailyPizz on préfère mettre tout le monde d'accord: les pates carbonara c'est avec de la crème, pas avec de l'oeuf."
   },
   {
     "id": 15,
@@ -131,7 +131,7 @@
     "img": "https://www.charcuteriedupacifique.pf/media/k2/items/cache/358873fad4914931314b94f2036b503a_XL.jpg",
     "img_alt": "Une photo de la pizza Orientale que nous servons à La Villa Aubert",
     "price": 11.00,
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem saepe ad minima exercitationem, perferendis atque dolorum reiciendis maiores impedit quae cupiditate quidem dignissimos officia esse. Repellendus quas voluptatibus quae soluta laboriosam? Officiis eos molestias eveniet id enim animi expedita sapiente harum obcaecati quia fuga odio possimus, ut odit sunt. Magni illum nihil id reiciendis assumenda velit non nesciunt hic temporibus, exercitationem molestiae suscipit omnis error soluta delectus a aliquam eveniet necessitatibus eligendi vero modi, rem itaque sunt? Id nulla tenetur, neque voluptatibus doloribus, vel, labore possimus saepe iusto ea reprehenderit fuga. Adipisci dolorem aut ducimus nulla odit, voluptas iure."
+    "description": "Vous avez toujours revé d'appeller le gérant d'un restaurant 'chef' pour qu'il vous mette le traditionnel salade tomate oignons ? A La DailyPizz on réussira à accomplir tout vos voeux, on vous le jure !"
   },
   {
     "id": 16,
@@ -140,7 +140,7 @@
     "img": "https://img-3.journaldesfemmes.fr/h0Jss6q54UjItXHU0kaNtx4Jt4o=/748x499/smart/39f6556121f84ec0909835693b69b198/recipe-jdf/1002642.jpg",
     "img_alt": "Une photo de la pizza Saumon que nous servons à La Villa Aubert",
     "price": 11.00,
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem saepe ad minima exercitationem, perferendis atque dolorum reiciendis maiores impedit quae cupiditate quidem dignissimos officia esse. Repellendus quas voluptatibus quae soluta laboriosam? Officiis eos molestias eveniet id enim animi expedita sapiente harum obcaecati quia fuga odio possimus, ut odit sunt. Magni illum nihil id reiciendis assumenda velit non nesciunt hic temporibus, exercitationem molestiae suscipit omnis error soluta delectus a aliquam eveniet necessitatibus eligendi vero modi, rem itaque sunt? Id nulla tenetur, neque voluptatibus doloribus, vel, labore possimus saepe iusto ea reprehenderit fuga. Adipisci dolorem aut ducimus nulla odit, voluptas iure."
+    "description": "La pizza au saumon c'est un peu comme un saut à l'elastique. On est sur de rien mais quand on se lance, on se rend compte que c'est pas si dégueulasse que cela. Et on a envie de recommencer encore et encore."
   },
   {
     "id": 17,
@@ -149,7 +149,7 @@
     "img": "https://fr.rc-cdn.community.thermomix.com/recipeimage/j0q4w63j-7df92-150276-cfcd2-r1ht9p9i/6d077a7c-3ffe-4af5-8234-03d830688376/main/pizza-savoyarde.jpg",
     "img_alt": "Une photo de la pizza Savoyarde que nous servons à La Villa Aubert",
     "price": 12.00,
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem saepe ad minima exercitationem, perferendis atque dolorum reiciendis maiores impedit quae cupiditate quidem dignissimos officia esse. Repellendus quas voluptatibus quae soluta laboriosam? Officiis eos molestias eveniet id enim animi expedita sapiente harum obcaecati quia fuga odio possimus, ut odit sunt. Magni illum nihil id reiciendis assumenda velit non nesciunt hic temporibus, exercitationem molestiae suscipit omnis error soluta delectus a aliquam eveniet necessitatibus eligendi vero modi, rem itaque sunt? Id nulla tenetur, neque voluptatibus doloribus, vel, labore possimus saepe iusto ea reprehenderit fuga. Adipisci dolorem aut ducimus nulla odit, voluptas iure."
+    "description": "la pizza préférée du propriétaire de La DailyPizz ! Du gras, du gras et encore du gras ! Le gras c'est la vie comme dirait un célèbre philosophe dont on préfère tuer le nom ici"
   },
   {
     "id": 18,
@@ -158,7 +158,7 @@
     "img": "https://3.bp.blogspot.com/-geqiAxpV8Vs/XPdsh86j6bI/AAAAAAAAfno/FcD26-7WR7wlI3GmYuVXjVYu8ql5c0_lgCLcBGAs/s1600/2Z5A4213_resultat.JPG",
     "img_alt": "Une photo de la pizza Espagnole que nous servons à La Villa Aubert",
     "price": 10.50,
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem saepe ad minima exercitationem, perferendis atque dolorum reiciendis maiores impedit quae cupiditate quidem dignissimos officia esse. Repellendus quas voluptatibus quae soluta laboriosam? Officiis eos molestias eveniet id enim animi expedita sapiente harum obcaecati quia fuga odio possimus, ut odit sunt. Magni illum nihil id reiciendis assumenda velit non nesciunt hic temporibus, exercitationem molestiae suscipit omnis error soluta delectus a aliquam eveniet necessitatibus eligendi vero modi, rem itaque sunt? Id nulla tenetur, neque voluptatibus doloribus, vel, labore possimus saepe iusto ea reprehenderit fuga. Adipisci dolorem aut ducimus nulla odit, voluptas iure."
+    "description": "Le mélange sucré - salé, on l'interdit à La DailyPizz pour la pizza hawaïenne. Pour celle-ci, on va faire une exception parce qu'on adore le fondant du chèvre et le doux du miel."
   },
   {
     "id": 19,
@@ -167,7 +167,7 @@
     "img": "https://img.over-blog-kiwi.com/0/93/14/90/20200818/ob_528b48_pizza-truffe-mozza.jpg",
     "img_alt": "Une photo de la pizza Truffe que nous servons à La Villa Aubert",
     "price": 13.00,
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem saepe ad minima exercitationem, perferendis atque dolorum reiciendis maiores impedit quae cupiditate quidem dignissimos officia esse. Repellendus quas voluptatibus quae soluta laboriosam? Officiis eos molestias eveniet id enim animi expedita sapiente harum obcaecati quia fuga odio possimus, ut odit sunt. Magni illum nihil id reiciendis assumenda velit non nesciunt hic temporibus, exercitationem molestiae suscipit omnis error soluta delectus a aliquam eveniet necessitatibus eligendi vero modi, rem itaque sunt? Id nulla tenetur, neque voluptatibus doloribus, vel, labore possimus saepe iusto ea reprehenderit fuga. Adipisci dolorem aut ducimus nulla odit, voluptas iure."
+    "description": "Dans cette pizza, on vous garanti de la truffe. Beaucoup de truffes ! Et pas de la truffe de chien, de la truffe du périgord. Il va donc falloir déposer les billets ma bonne dame."
   },
   {
     "id": 20,
@@ -176,6 +176,6 @@
     "img": "https://assets.afcdn.com/recipe/20161130/7916_w1024h1024c1cx2808cy1872.webp",
     "img_alt": "Une photo de la pizza Calzone que nous servons à La Villa Aubert",
     "price": 10.00,
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem saepe ad minima exercitationem, perferendis atque dolorum reiciendis maiores impedit quae cupiditate quidem dignissimos officia esse. Repellendus quas voluptatibus quae soluta laboriosam? Officiis eos molestias eveniet id enim animi expedita sapiente harum obcaecati quia fuga odio possimus, ut odit sunt. Magni illum nihil id reiciendis assumenda velit non nesciunt hic temporibus, exercitationem molestiae suscipit omnis error soluta delectus a aliquam eveniet necessitatibus eligendi vero modi, rem itaque sunt? Id nulla tenetur, neque voluptatibus doloribus, vel, labore possimus saepe iusto ea reprehenderit fuga. Adipisci dolorem aut ducimus nulla odit, voluptas iure."
+    "description": "Les gens l'appellent aussi la pizza du pauvre, à La DailyPizz, on l'appelle la pizza de l'élite reservé à ceux qui ont un palai suffisament divin pour apprécier ce met époustouflant."
   }
 ]
