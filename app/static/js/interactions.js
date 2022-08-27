@@ -32,7 +32,7 @@ localisationElem.addEventListener('click', askForLocalisation);
 
 // Je cible d'abord l'élément en question 
 
-const telephoneElem = document.querySelector('.main__ul__href__javascript__two');
+const telephoneElem = document.querySelector('.main__ul__ahref__javascript__two');
 
 // Je réalise ensuite la fonction qui va permettre d'emplecher le comportement par défaut
 
@@ -54,7 +54,7 @@ telephoneElem.addEventListener('click', askForTelephone);
 
 // Je cible d'abord l'élément en question 
 
-const mailElem = document.querySelector('.main__ul__href__javascript__three');
+const mailElem = document.querySelector('.main__ul__ahref__javascript__three');
 
 // Je réalise la fonction qui permettra d'empecher le comportement par défaut, à savoir le click
 
