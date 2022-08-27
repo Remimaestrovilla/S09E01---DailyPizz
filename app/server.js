@@ -16,9 +16,9 @@ const app = express();
 
 const path = require ('path');
 
-// J'assigne à mon serveur express le port de mon choix, ici on va prendre le port 3006
+// J'assigne à mon serveur express le port de mon choix, ici on va prendre le port 3005
 
-const PORT = 3006;
+const PORT = 3005;
 
 // Je récupère toutes les vues que j'ai fait. Avec Express, on indique le moteur et ce qu'on cherche
 

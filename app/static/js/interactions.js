@@ -1,14 +1,12 @@
-// Déja pour voir que tout marche correctement, je fais une petite alerte des familles 
-
-// Le JS se délivre bien sur toutes les pages du projet ! On est parti pour faire toutes les intéractions en front ma bonne dame ! 
+// Je réalise ici toutes les interactions que je veux faire pour mon site internet
 
 // ------------------------------------------------------- Page de coordonnées / contact.ejs ---------------------------------------------------------------------- //
 
-// ETAPE 1 : Je veux que quand on clique sur la case localisation, on connaisse l'adresse exacte de la pizzeria
+// ETAPE 3 : Je veux que quand on clique sur la case localisation, on connaisse l'adresse exacte de la pizzeria
 
 // Je cible la section demandée en indiquant le selecteur CSS puisque j'utilise un selecteur CSS
 
-const localisationElem = document.querySelector('.main__ul__ahref__javascript__one');
+const localisationElem = document.querySelector('.main__ul__ahref__javascript');
 
 // Je réalise la fonction qui permettra la dynamisation, on met encore le paramètre event en paramètre
 
