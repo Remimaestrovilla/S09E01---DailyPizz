@@ -280,11 +280,20 @@ body {
 }
 
 .main__product__name {
-    margin: 20px;
     font-size: 40px;
     font-weight: bold;
     text-shadow: 1px 3px 2px black;
     color: white;
-    width: 240px;
-    height: 240px;
+    bottom: 300px;
+    left: 34px;
+    position: relative;
+}
+
+.img__contenair {
+    position: relative;
+}
+
+.ahref__color {
+    text-decoration: none;
+    color: white;
 }

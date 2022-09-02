@@ -16,9 +16,18 @@
 
         <!-- <a href="/pizzas/<%= pizza.id %>" class="main__ul__ahref"><p class="main__pizza__name"><%= pizza.name %></p></a> -->
 
-        <a href="/pizzas/<%= pizza.id %>"><img src="<%= pizza.img %>" class="main__products__img"></a>
+        <a href="/pizzas/<%= pizza.id %>" class = "ahref__color">
+
+            <div class="img__contenair" >
+
+                <img src="<%= pizza.img %>" class="main__products__img">
+
+                <p class="main__product__name"><%= pizza.name %></p>
+
+            </div>
         
-        <p class="main__product__name"><%= pizza.name %></p>
+        </a>
+        
     <% } %>
 
 </main>

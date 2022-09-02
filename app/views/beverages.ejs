@@ -11,10 +11,19 @@
 
         <% for (const beverage of beverages) { %>
 
-        <a href="/beverages/<%= beverage.id %>"><img src="<%= beverage.img %>" class="main__products__img"></a>
+            <a href="/beverages/<%= beverage.id %>" class = "ahref__color">
 
-        <p class="main__product__name"><%= beverage.name %></p>
-        <% } %>
+                <div class="img__contenair" >
+    
+                    <img src="<%= beverage.img %>" class="main__products__img">
+    
+                    <p class="main__product__name"><%= beverage.name %></p>
+    
+                </div>
+            
+            </a>
+
+            <% } %>
 
 </main>
 

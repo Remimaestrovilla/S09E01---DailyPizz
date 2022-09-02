@@ -15,9 +15,18 @@
 
         <!-- <a href="/tapas/<%= tapa.id %>" class="main__ul__ahref"><p class="main__pizza__name"><%= tapa.name %></p></a> -->
 
-        <a href="/tapas/<%= tapa.id %>"><img src="<%= tapa.img %>" class="main__products__img"></a>
+        <a href="/tapas/<%= tapa.id %>" class = "ahref__color">
 
-        <p class="main__product__name"><%= tapa.name %></p>
+            <div class="img__contenair" >
+
+                <img src="<%= tapa.img %>" class="main__products__img">
+
+                <p class="main__product__name"><%= tapa.name %></p>
+
+            </div>
+        
+        </a>
+
     <% } %>
 
 </main>
